@@ -50,7 +50,7 @@ class KendaraanController extends Controller
         'kapasitas_mobil' => $request->kapasitas_mobil,
         'fasilitas_mobil' => $request->fasilitas_mobil,
         'plat_nomor' => $request->plat_nomor,
-        'no_stnk' => $request->no_stnk,
+        'nomor_stnk' => $request->nomor_stnk,
         'kategori_aset' => $request->kategori_aset,
         'tgl_service_terakhir' => $request->tgl_service_terakhir,
         'status_ketersediaan_mobil' => $request->status_ketersediaan_mobil,
