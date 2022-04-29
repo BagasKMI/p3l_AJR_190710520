@@ -77,7 +77,7 @@
 
                         <div class="col-md col-sm">
                             <label class="mb-2">Nomor STNK</label>
-                        <input type="text" class="form-control mb-3" value="{{ $aset_kendaraan->no_stnk}}" name="no_stnk">
+                        <input type="text" class="form-control mb-3" value="{{ $aset_kendaraan->no_stnk}}" name="nomor_stnk">
                         </div>
 
                         <div class="col-md col-sm">

@@ -110,7 +110,7 @@ class KendaraanController extends Controller
             $aset_kendaraan->kapasitas_mobil = $request->kapasitas_mobil;
             $aset_kendaraan->fasilitas_mobil = $request->fasilitas_mobil;
             $aset_kendaraan->plat_nomor = $request->plat_nomor;
-            $aset_kendaraan->no_stnk = $request->no_stnk;
+            $aset_kendaraan->nomor_stnk = $request->nomor_stnk;
             $aset_kendaraan->kategori_aset = $request->kategori_aset;
             $aset_kendaraan->tgl_service_terakhir = $request->tgl_service_terakhir;
             $aset_kendaraan->status_ketersediaan_mobil = $request->status_ketersediaan_mobil;

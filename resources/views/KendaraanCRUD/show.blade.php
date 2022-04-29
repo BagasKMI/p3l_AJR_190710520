@@ -88,7 +88,7 @@
                             <i class="fa-solid fa-genderless"></i>
                             Nomor STNK
                         </strong>
-                        <p class="text-muted">{{ $aset_kendaraan->no_stnk}}</p>
+                        <p class="text-muted">{{ $aset_kendaraan->nomor_stnk}}</p>
                         <hr>
 
                         <strong>
